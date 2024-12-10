@@ -1,2 +1,2 @@
 # ppdi02aca
-Maqueta de una materi llamada Principios y practicas del diseño en movimiento II
+Maqueta de una materia llamada Principios y Prácticas del Diseño Interactivo II
